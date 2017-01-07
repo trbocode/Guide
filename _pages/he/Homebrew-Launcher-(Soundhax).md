@@ -5,11 +5,9 @@ lang: he
 ref: homebrew-launcher-(soundhax)
 ---
 
-The Homebrew Launcher has many different entrypoints, or methods of launching.
 .Homebrew Launcherיש הרבה דרכים שונות להפעיל את ה
 {: .notice}
 
-SoundHax is compatible with versions 9.0.0 through 11.2.0 in the EUR, JPN, KOR, and USA regions.
 .עובד עם גרסאות 9.0 עד 11.2 בכל האזורים פרט לסין SoundHax
 {: .notice--info}
 
