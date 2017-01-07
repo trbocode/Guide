@@ -1,0 +1,5 @@
+files:
+  - source: /_pages/en/*.md
+    ignore:
+      - /_pages/en/
+    translation: /_pages/%two_letters_code%/%original_file_name%
