@@ -6,18 +6,20 @@ ref: homebrew-launcher-(soundhax)
 ---
 
 The Homebrew Launcher has many different entrypoints, or methods of launching.
+.Homebrew Launcherיש הרבה דרכים שונות להפעיל את ה
 {: .notice}
 
 SoundHax is compatible with versions 9.0.0 through 11.2.0 in the EUR, JPN, KOR, and USA regions.
+.עובד עם גרסאות 9.0 עד 11.2 בכל האזורים פרט לסין SoundHax
 {: .notice--info}
 
-#### What you need
+#### מה נדרש
 
-+ The Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
++ The homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
 + The latest release of [SoundHax](http://soundhax.com/) *(for your device and region)*
 + The [otherapp payload](https://smealum.github.io/3ds/#otherapp) *(for your version and region)*
 
-#### Instructions
+#### הוראות
 
 1. Copy _the contents of_ the `starter.zip` to the root of your SD card
 2. Copy the SoundHax `.m4a` to the root of your SD card
